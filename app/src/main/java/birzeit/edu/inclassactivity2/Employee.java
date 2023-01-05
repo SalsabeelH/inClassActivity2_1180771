@@ -1,6 +1,7 @@
 package birzeit.edu.inclassactivity2;
 
 public class Employee {
+    private static  Employee[] employees ;
     private String name;
     private int salary;
 
